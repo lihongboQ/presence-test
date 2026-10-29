@@ -1,0 +1,170 @@
+{
+  "brand": {
+    "name": "COVE",
+    "tagline": "日常必备，海岸灵感。"
+  },
+  "nav": {
+    "shop": "选购",
+    "cart": "购物车",
+    "searchPlaceholder": "搜索商品…",
+    "language": "语言"
+  },
+  "hero": {
+    "title": "找到适合你日常的好物",
+    "subtitle": "精选服饰、家居与户外装备 — 支持美国及海外发货。",
+    "cta": "浏览全部商品"
+  },
+  "catalog": {
+    "title": "全部商品",
+    "results": "{{count}} 件商品",
+    "resultsOne": "1 件商品",
+    "filterCategory": "分类",
+    "filterAll": "全部",
+    "sortBy": "排序",
+    "sortFeatured": "精选推荐",
+    "sortPriceAsc": "价格：从低到高",
+    "sortPriceDesc": "价格：从高到低",
+    "sortRating": "评分最高",
+    "emptyTitle": "没有匹配的商品",
+    "emptyBody": "试试其他关键词、分类，或清除筛选条件。",
+    "clearFilters": "清除筛选",
+    "loading": "正在加载商品…",
+    "error": "无法加载商品，请重试。",
+    "retry": "重试"
+  },
+  "categories": {
+    "apparel": "服饰",
+    "home": "家居",
+    "outdoor": "户外",
+    "tech": "数码",
+    "accessories": "配件"
+  },
+  "product": {
+    "from": "起",
+    "reviews": "{{count}} 条评价",
+    "inStock": "有货",
+    "lowStock": "仅剩 {{count}} 件",
+    "outOfStock": "缺货",
+    "selectOption": "选择{{label}}",
+    "size": "尺码 / 规格",
+    "quantity": "数量",
+    "addToCart": "加入购物车",
+    "adding": "添加中…",
+    "added": "已加入购物车",
+    "viewCart": "查看购物车",
+    "continueShopping": "继续购物",
+    "description": "商品详情",
+    "shippingNote": "订单满 $75 免标准运费。预估税费将在结账时计算。",
+    "back": "返回商城",
+    "sale": "特惠",
+    "new": "新品",
+    "bestseller": "畅销",
+    "notFoundTitle": "未找到商品",
+    "notFoundBody": "该商品可能已下架或不可用。"
+  },
+  "cart": {
+    "title": "购物车",
+    "emptyTitle": "购物车是空的",
+    "emptyBody": "去逛逛，把喜欢的商品加进来吧。",
+    "startShopping": "开始选购",
+    "item": "件",
+    "items": "件",
+    "quantity": "数量",
+    "remove": "删除",
+    "clear": "清空购物车",
+    "subtotal": "小计",
+    "shipping": "预估运费",
+    "shippingFree": "免运费",
+    "shippingNote": "满 $75 免运费",
+    "tax": "预估税费",
+    "taxNote": "按 8% 估算",
+    "total": "预估合计",
+    "checkout": "去结账",
+    "checkoutHint": "本演示已简化结账流程。",
+    "updateFailed": "无法更新购物车，请重试。",
+    "freeShippingAway": "再买 {{amount}} 即可免运费"
+  },
+  "footer": {
+    "rights": "© {{year}} COVE。面试实作演示商店。",
+    "currency": "价格以美元（USD）计价。运费估算适用于美国本土。"
+  },
+  "toast": {
+    "added": "{{name}} 已加入购物车",
+    "removed": "商品已删除",
+    "cleared": "购物车已清空"
+  },
+  "products": {
+    "p01": {
+      "name": "亚麻罩衫",
+      "desc": "欧洲亚麻面料，透气宽松剪裁。适合春到秋层叠穿着。建议冷水手洗，晾干以保持版型。"
+    },
+    "p02": {
+      "name": "陶瓷手冲套装",
+      "desc": "手工上釉陶瓷滤杯与配套杯。导热均匀，每天一杯干净明亮的咖啡。"
+    },
+    "p03": {
+      "name": "Trail 日用背包 22L",
+      "desc": "防泼水面料，带电脑隔层与水袋接口。适合通勤到徒步的一天。"
+    },
+    "p04": {
+      "name": "Quiet Buds 降噪耳机",
+      "desc": "主动降噪，充电盒续航约 28 小时，IPX4 防汗。通话清晰，低音有力。"
+    },
+    "p05": {
+      "name": "美丽诺羊毛中筒袜（3 双）",
+      "desc": "温感调节美利奴混纺，更耐异味。脚底加厚，适合全天穿着。"
+    },
+    "p06": {
+      "name": "实木橡木边桌",
+      "desc": "实木橡木，柔和哑光涂装。占地紧凑，适合客厅与卧室。扁平包装发货。"
+    },
+    "p07": {
+      "name": "全日保温瓶",
+      "desc": "18oz 双层不锈钢，保冷 24 小时 / 保温 12 小时。防漏盖，适配多数杯架。"
+    },
+    "p08": {
+      "name": "超薄皮革卡包",
+      "desc": "全粒面皮革，内含 RFID 防盗衬。可放 4–6 张卡与折叠现金，不臃肿。"
+    },
+    "p09": {
+      "name": "City 软壳夹克",
+      "desc": "防风软壳，弹性拼接与可收纳帽檐。轻雨防泼水。"
+    },
+    "p10": {
+      "name": "水洗亚麻被套组",
+      "desc": "石洗亚麻，越洗越软。含被套与两个枕套。"
+    },
+    "p11": {
+      "name": "折叠露营灯",
+      "desc": "USB-C 充电，暖光 / 冷光模式。可压扁收纳，悬挂或立放。"
+    },
+    "p12": {
+      "name": "MagSafe 无线充",
+      "desc": "15W 快充，防滑硅胶底座。兼容 MagSafe 与 Qi 设备。"
+    },
+    "p13": {
+      "name": "厚实帆布托特包",
+      "desc": "16oz 帆布，加固提手与内置拉链袋。买菜、图书馆、周末市集都好用。"
+    },
+    "p14": {
+      "name": "罗纹羊毛冷帽",
+      "desc": "意大利美丽诺羊毛，干净罗纹织法。贴肤柔软，定型好。"
+    },
+    "p15": {
+      "name": "海岸香氛蜡烛三件套",
+      "desc": "三款大豆蜡：海盐、浮木、柑橘林。各约 40 小时燃烧，棉芯。"
+    },
+    "p16": {
+      "name": "偏光 Wayfarer 太阳镜",
+      "desc": "偏光镜片，UV400 防护，醋酸纤维镜架。轻量全天可戴。"
+    },
+    "p17": {
+      "name": "口袋蓝牙音箱",
+      "desc": "掌心体积，立体声表现。IP67 防水，续航约 12 小时，USB-C。"
+    },
+    "p18": {
+      "name": "Grip 越野跑鞋",
+      "desc": "回弹缓震，抓地大底适合混合地形。透气鞋面，夜间反光点缀。"
+    }
+  }
+}

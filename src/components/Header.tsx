@@ -2,6 +2,18 @@ import { Link, NavLink, useNavigate, useSearchParams } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { useCart } from '../context/CartContext'
 import { useState, type FormEvent } from 'react'
+import { LOCALES, type Locale } from '../i18n'
+
+const LOCALE_LABEL: Record<Locale, string> = {
+  en: 'EN',
+  es: 'ES',
+  zh: '中文',
+}
+
+function normalizeLocale(lng: string): Locale {
+  const base = lng.split('-')[0]
+  return LOCALES.includes(base as Locale) ? (base as Locale) : 'en'
+}
 
 export function Header() {
   const { t, i18n } = useTranslation()
@@ -11,6 +23,7 @@ export function Header() {
   const urlQuery = params.get('q') ?? ''
   const [draft, setDraft] = useState(urlQuery)
   const [lastUrlQuery, setLastUrlQuery] = useState(urlQuery)
+  const locale = normalizeLocale(i18n.language)
 
   if (urlQuery !== lastUrlQuery) {
     setLastUrlQuery(urlQuery)
@@ -28,8 +41,10 @@ export function Header() {
     navigate({ pathname: '/', search: next.toString() })
   }
 
-  function toggleLang() {
-    void i18n.changeLanguage(i18n.language === 'es' ? 'en' : 'es')
+  function cycleLang() {
+    const idx = LOCALES.indexOf(locale)
+    const next = LOCALES[(idx + 1) % LOCALES.length]
+    void i18n.changeLanguage(next)
   }
 
   return (
@@ -61,10 +76,10 @@ export function Header() {
           <button
             type="button"
             className="lang-toggle"
-            onClick={toggleLang}
+            onClick={cycleLang}
             aria-label={t('nav.language')}
           >
-            {i18n.language === 'es' ? 'ES' : 'EN'}
+            {LOCALE_LABEL[locale]}
           </button>
           <NavLink to="/cart" className="cart-link">
             <span className="cart-label">{t('nav.cart')}</span>

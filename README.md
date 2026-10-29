@@ -16,7 +16,7 @@ npm run dev
 - Product detail with variants, qty, add-to-cart feedback
 - Cart: update qty, remove, clear, subtotal / shipping / tax / total
 - Cart persistence via `localStorage`
-- i18n: English (default) + Spanish toggle
+- i18n: English (default) + Spanish + Chinese (中文) toggle
 - Loading / empty / error-friendly states
 
 Currency: **USD**. Free shipping estimate over $75; tax estimate 8%.
