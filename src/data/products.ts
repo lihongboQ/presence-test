@@ -253,9 +253,9 @@ export const products: Product[] = [
     rating: 4.2,
     reviewCount: 620,
     image:
-      'https://images.unsplash.com/photo-1591290619762-c588f7eaaa1d?w=800&q=80',
+      'https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&q=80',
     images: [
-      'https://images.unsplash.com/photo-1591290619762-c588f7eaaa1d?w=800&q=80',
+      'https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&q=80',
     ],
     variants: [
       { id: 'matte', label: 'Matte Black', inStock: true },
@@ -315,9 +315,9 @@ export const products: Product[] = [
     rating: 4.7,
     reviewCount: 265,
     image:
-      'https://images.unsplash.com/photo-1602602830903-25a5e6a7b3a4?w=800&q=80',
+      'https://images.unsplash.com/photo-1603006905003-be475563bc59?w=800&q=80',
     images: [
-      'https://images.unsplash.com/photo-1602602830903-25a5e6a7b3a4?w=800&q=80',
+      'https://images.unsplash.com/photo-1603006905003-be475563bc59?w=800&q=80',
     ],
     variants: [
       { id: 'coastal', label: 'Coastal Set', inStock: true },
