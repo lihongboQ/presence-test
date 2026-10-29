@@ -1,0 +1,170 @@
+{
+  "brand": {
+    "name": "COVE",
+    "tagline": "Everyday essentials, coast-inspired."
+  },
+  "nav": {
+    "shop": "Shop",
+    "cart": "Cart",
+    "searchPlaceholder": "Search products…",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Find what fits your day",
+    "subtitle": "Curated apparel, home, and outdoor gear — ready to ship across the US & beyond.",
+    "cta": "Browse the collection"
+  },
+  "catalog": {
+    "title": "All products",
+    "results": "{{count}} products",
+    "resultsOne": "1 product",
+    "filterCategory": "Category",
+    "filterAll": "All",
+    "sortBy": "Sort by",
+    "sortFeatured": "Featured",
+    "sortPriceAsc": "Price: Low to High",
+    "sortPriceDesc": "Price: High to Low",
+    "sortRating": "Top rated",
+    "emptyTitle": "No products match",
+    "emptyBody": "Try a different keyword, category, or clear your filters.",
+    "clearFilters": "Clear filters",
+    "loading": "Loading products…",
+    "error": "We couldn’t load products. Please try again.",
+    "retry": "Retry"
+  },
+  "categories": {
+    "apparel": "Apparel",
+    "home": "Home",
+    "outdoor": "Outdoor",
+    "tech": "Tech",
+    "accessories": "Accessories"
+  },
+  "product": {
+    "from": "From",
+    "reviews": "{{count}} reviews",
+    "inStock": "In stock",
+    "lowStock": "Only {{count}} left",
+    "outOfStock": "Out of stock",
+    "selectOption": "Select {{label}}",
+    "size": "Size / Option",
+    "quantity": "Quantity",
+    "addToCart": "Add to cart",
+    "adding": "Adding…",
+    "added": "Added to cart",
+    "viewCart": "View cart",
+    "continueShopping": "Continue shopping",
+    "description": "Description",
+    "shippingNote": "Free standard shipping on orders $75+. Estimated tax calculated at checkout.",
+    "back": "Back to shop",
+    "sale": "Sale",
+    "new": "New",
+    "bestseller": "Bestseller",
+    "notFoundTitle": "Product not found",
+    "notFoundBody": "This item may have been moved or is no longer available."
+  },
+  "cart": {
+    "title": "Your cart",
+    "emptyTitle": "Your cart is empty",
+    "emptyBody": "Browse the collection and add something you love.",
+    "startShopping": "Start shopping",
+    "item": "item",
+    "items": "items",
+    "quantity": "Qty",
+    "remove": "Remove",
+    "clear": "Clear cart",
+    "subtotal": "Subtotal",
+    "shipping": "Estimated shipping",
+    "shippingFree": "Free",
+    "shippingNote": "Free over $75",
+    "tax": "Estimated tax",
+    "taxNote": "Based on 8% estimate",
+    "total": "Estimated total",
+    "checkout": "Proceed to checkout",
+    "checkoutHint": "Checkout is simplified for this demo.",
+    "updateFailed": "Couldn’t update cart. Please try again.",
+    "freeShippingAway": "{{amount}} away from free shipping"
+  },
+  "footer": {
+    "rights": "© {{year}} COVE. Demo store for interview exercise.",
+    "currency": "Prices in USD. Shipping estimates for contiguous US."
+  },
+  "toast": {
+    "added": "{{name}} added to cart",
+    "removed": "Item removed",
+    "cleared": "Cart cleared"
+  },
+  "products": {
+    "p01": {
+      "name": "Linen Overshirt",
+      "desc": "Breathable European linen with a relaxed cut. Ideal for layering from spring through fall. Machine wash cold; line dry for best shape."
+    },
+    "p02": {
+      "name": "Ceramic Pour-Over Set",
+      "desc": "Hand-glazed ceramic dripper with matching mug. Even heat retention for a clean, bright cup every morning."
+    },
+    "p03": {
+      "name": "Trail Daypack 22L",
+      "desc": "Weather-resistant pack with padded laptop sleeve and hydration port. Built for commute-to-trail days."
+    },
+    "p04": {
+      "name": "Quiet Buds ANC",
+      "desc": "Active noise cancelling earbuds with 28-hour case battery and IPX4 sweat resistance. Clear calls, deep bass."
+    },
+    "p05": {
+      "name": "Merino Crew Socks (3-Pack)",
+      "desc": "Temperature-regulating merino blend that stays odor-free longer. Cushioned sole for all-day wear."
+    },
+    "p06": {
+      "name": "Solid Oak Side Table",
+      "desc": "Solid oak with a soft matte finish. Compact footprint for living rooms and bedrooms. Ships flat-packed."
+    },
+    "p07": {
+      "name": "All-Day Insulated Bottle",
+      "desc": "18oz double-wall steel keeps drinks cold 24h or hot 12h. Leak-proof lid, fits most cup holders."
+    },
+    "p08": {
+      "name": "Slim Leather Card Holder",
+      "desc": "Full-grain leather with RFID lining. Holds 4–6 cards plus folded cash without the bulk."
+    },
+    "p09": {
+      "name": "City Softshell Jacket",
+      "desc": "Wind-blocking softshell with stretch panels and a packable hood. Water-repellent for light rain."
+    },
+    "p10": {
+      "name": "Washed Linen Duvet Set",
+      "desc": "Stone-washed linen that softens with every wash. Includes duvet cover and two pillowcases."
+    },
+    "p11": {
+      "name": "Collapsible Camp Lantern",
+      "desc": "USB-C rechargeable lantern with warm / cool modes. Collapses flat for packing; hangs or stands."
+    },
+    "p12": {
+      "name": "MagSafe Wireless Pad",
+      "desc": "15W fast wireless charging with non-slip silicone base. Compatible with MagSafe and Qi devices."
+    },
+    "p13": {
+      "name": "Heavy Canvas Tote",
+      "desc": "16oz canvas with reinforced handles and an interior zip pocket. Grocery runs, library hauls, weekend markets."
+    },
+    "p14": {
+      "name": "Ribbed Wool Beanie",
+      "desc": "Italian merino wool with a clean rib knit. Soft against skin, structured enough to hold its shape."
+    },
+    "p15": {
+      "name": "Coastal Candle Trio",
+      "desc": "Three soy-blend candles: Sea Salt, Driftwood, and Citrus Grove. 40-hour burn each; cotton wicks."
+    },
+    "p16": {
+      "name": "Polarized Wayfarers",
+      "desc": "Polarized lenses with UV400 protection and acetate frames. Lightweight enough for all-day wear."
+    },
+    "p17": {
+      "name": "Pocket Bluetooth Speaker",
+      "desc": "Rich stereo sound in a palm-sized body. IP67 waterproof with 12-hour playtime and USB-C."
+    },
+    "p18": {
+      "name": "Grip Trail Runners",
+      "desc": "Responsive cushioning with aggressive outsole for mixed terrain. Breathable upper, reflective hits."
+    }
+  }
+}

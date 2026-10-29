@@ -1,0 +1,170 @@
+{
+  "brand": {
+    "name": "COVE",
+    "tagline": "Esenciales de cada día, inspirados en la costa."
+  },
+  "nav": {
+    "shop": "Tienda",
+    "cart": "Carrito",
+    "searchPlaceholder": "Buscar productos…",
+    "language": "Idioma"
+  },
+  "hero": {
+    "title": "Encuentra lo que encaja en tu día",
+    "subtitle": "Ropa, hogar y equipo outdoor seleccionados — envíos a EE. UU. y más allá.",
+    "cta": "Ver la colección"
+  },
+  "catalog": {
+    "title": "Todos los productos",
+    "results": "{{count}} productos",
+    "resultsOne": "1 producto",
+    "filterCategory": "Categoría",
+    "filterAll": "Todas",
+    "sortBy": "Ordenar",
+    "sortFeatured": "Destacados",
+    "sortPriceAsc": "Precio: menor a mayor",
+    "sortPriceDesc": "Precio: mayor a menor",
+    "sortRating": "Mejor valorados",
+    "emptyTitle": "Sin resultados",
+    "emptyBody": "Prueba otra palabra, categoría o limpia los filtros.",
+    "clearFilters": "Limpiar filtros",
+    "loading": "Cargando productos…",
+    "error": "No pudimos cargar los productos. Inténtalo de nuevo.",
+    "retry": "Reintentar"
+  },
+  "categories": {
+    "apparel": "Ropa",
+    "home": "Hogar",
+    "outdoor": "Outdoor",
+    "tech": "Tecnología",
+    "accessories": "Accesorios"
+  },
+  "product": {
+    "from": "Desde",
+    "reviews": "{{count}} reseñas",
+    "inStock": "En stock",
+    "lowStock": "Solo quedan {{count}}",
+    "outOfStock": "Agotado",
+    "selectOption": "Elige {{label}}",
+    "size": "Talla / Opción",
+    "quantity": "Cantidad",
+    "addToCart": "Añadir al carrito",
+    "adding": "Añadiendo…",
+    "added": "Añadido al carrito",
+    "viewCart": "Ver carrito",
+    "continueShopping": "Seguir comprando",
+    "description": "Descripción",
+    "shippingNote": "Envío estándar gratis en pedidos de $75+. Impuestos estimados al pagar.",
+    "back": "Volver a la tienda",
+    "sale": "Oferta",
+    "new": "Nuevo",
+    "bestseller": "Más vendido",
+    "notFoundTitle": "Producto no encontrado",
+    "notFoundBody": "Este artículo puede haberse movido o ya no está disponible."
+  },
+  "cart": {
+    "title": "Tu carrito",
+    "emptyTitle": "Tu carrito está vacío",
+    "emptyBody": "Explora la colección y añade algo que te guste.",
+    "startShopping": "Empezar a comprar",
+    "item": "artículo",
+    "items": "artículos",
+    "quantity": "Cant.",
+    "remove": "Eliminar",
+    "clear": "Vaciar carrito",
+    "subtotal": "Subtotal",
+    "shipping": "Envío estimado",
+    "shippingFree": "Gratis",
+    "shippingNote": "Gratis a partir de $75",
+    "tax": "Impuesto estimado",
+    "taxNote": "Estimación del 8%",
+    "total": "Total estimado",
+    "checkout": "Ir al checkout",
+    "checkoutHint": "El checkout está simplificado en esta demo.",
+    "updateFailed": "No se pudo actualizar el carrito. Inténtalo de nuevo.",
+    "freeShippingAway": "Te faltan {{amount}} para envío gratis"
+  },
+  "footer": {
+    "rights": "© {{year}} COVE. Tienda demo para ejercicio de entrevista.",
+    "currency": "Precios en USD. Envíos estimados para EE. UU. continental."
+  },
+  "toast": {
+    "added": "{{name}} añadido al carrito",
+    "removed": "Artículo eliminado",
+    "cleared": "Carrito vaciado"
+  },
+  "products": {
+    "p01": {
+      "name": "Camisa de lino",
+      "desc": "Lino europeo transpirable con corte relajado. Ideal para capas de primavera a otoño."
+    },
+    "p02": {
+      "name": "Set de pour-over cerámico",
+      "desc": "Goteador de cerámica esmaltada a mano con taza a juego. Retención de calor uniforme."
+    },
+    "p03": {
+      "name": "Mochila Trail 22L",
+      "desc": "Mochila resistente a la intemperie con funda acolchada para portátil y puerto de hidratación."
+    },
+    "p04": {
+      "name": "Auriculares Quiet Buds ANC",
+      "desc": "Cancelación activa de ruido, 28 h con estuche e IPX4. Llamadas claras y graves profundos."
+    },
+    "p05": {
+      "name": "Calcetines merino (pack 3)",
+      "desc": "Mezcla de merino que regula la temperatura y resiste el olor. Suela acolchada."
+    },
+    "p06": {
+      "name": "Mesa auxiliar de roble",
+      "desc": "Roble macizo con acabado mate suave. Formato compacto; se envía desmontada."
+    },
+    "p07": {
+      "name": "Botella térmica All-Day",
+      "desc": "Acero de doble pared: frío 24 h o caliente 12 h. Tapa a prueba de fugas."
+    },
+    "p08": {
+      "name": "Tarjetero de cuero slim",
+      "desc": "Cuero de grano completo con forro RFID. 4–6 tarjetas más billetes doblados."
+    },
+    "p09": {
+      "name": "Chaqueta softshell City",
+      "desc": "Corta viento con paneles elásticos y capucha plegable. Repelente al agua ligera."
+    },
+    "p10": {
+      "name": "Fundas de edredón de lino",
+      "desc": "Lino lavado a la piedra que se ablanda con cada lavado. Incluye funda y dos almohadas."
+    },
+    "p11": {
+      "name": "Linterna de camping plegable",
+      "desc": "Recargable USB-C con modos cálido / frío. Se pliega plana; cuelga o se apoya."
+    },
+    "p12": {
+      "name": "Base de carga MagSafe",
+      "desc": "Carga inalámbrica rápida 15W con base antideslizante. Compatible MagSafe y Qi."
+    },
+    "p13": {
+      "name": "Tote de lona gruesa",
+      "desc": "Lona de 16 oz con asas reforzadas y bolsillo interior con cremallera."
+    },
+    "p14": {
+      "name": "Gorro de lana acanalado",
+      "desc": "Merino italiano con punto acanalado limpio. Suave al tacto y con buena forma."
+    },
+    "p15": {
+      "name": "Trío de velas Coastal",
+      "desc": "Tres velas de soja: Sea Salt, Driftwood y Citrus Grove. 40 h cada una."
+    },
+    "p16": {
+      "name": "Gafas polarizadas Wayfarer",
+      "desc": "Lentes polarizadas UV400 y montura de acetato. Ligeras para todo el día."
+    },
+    "p17": {
+      "name": "Altavoz Bluetooth de bolsillo",
+      "desc": "Sonido estéreo rico en formato de bolsillo. IP67 y 12 h de autonomía."
+    },
+    "p18": {
+      "name": "Zapatillas trail Grip",
+      "desc": "Amortiguación reactiva y suela agresiva para terreno mixto. Upper transpirable."
+    }
+  }
+}
