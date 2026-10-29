@@ -7,6 +7,7 @@ import { EmptyState } from '../components/EmptyState'
 import { useCart } from '../context/CartContext'
 import { useToast } from '../context/ToastContext'
 import { formatMoney } from '../utils/format'
+import { StarIcon } from '../components/StarIcon'
 
 export function ProductDetailPage() {
   const { slug = '' } = useParams()
@@ -83,7 +84,7 @@ export function ProductDetailPage() {
 
       <div className="detail-layout">
         <div className="detail-gallery">
-          <img src={item.image} alt="" width={900} height={1100} />
+          <img src={item.image} alt={name} width={900} height={1100} />
           {item.badge && (
             <span className={`badge badge-${item.badge}`}>
               {t(`product.${item.badge}`)}
@@ -95,7 +96,7 @@ export function ProductDetailPage() {
           <p className="detail-category">{t(`categories.${item.category}`)}</p>
           <h1>{name}</h1>
           <p className="detail-rating">
-            <span aria-hidden>★</span> {item.rating.toFixed(1)}{' '}
+            <StarIcon className="rating-star" /> {item.rating.toFixed(1)}{' '}
             <span className="muted">
               · {t('product.reviews', { count: item.reviewCount })}
             </span>
